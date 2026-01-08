@@ -1,0 +1,15 @@
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\bin\Debug\net6.0\program006a-max-min.exe
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\bin\Debug\net6.0\program006a-max-min.deps.json
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\bin\Debug\net6.0\program006a-max-min.runtimeconfig.json
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\bin\Debug\net6.0\program006a-max-min.dll
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\bin\Debug\net6.0\program006a-max-min.pdb
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\program006a-max-min.csproj.AssemblyReference.cache
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\program006a-max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\program006a-max-min.AssemblyInfoInputs.cache
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\program006a-max-min.AssemblyInfo.cs
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\program006a-max-min.csproj.CoreCompileInputs.cache
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\program006a-max-min.dll
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\refint\program006a-max-min.dll
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\program006a-max-min.pdb
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\program006a-max-min.genruntimeconfig.cache
+C:\Users\filip\github-mfj-is-2025-sk3\program006a-max-min\obj\Debug\net6.0\ref\program006a-max-min.dll

@@ -1,0 +1,15 @@
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\bin\Debug\net6.0\program004a-obdelnik.exe
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\bin\Debug\net6.0\program004a-obdelnik.deps.json
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\bin\Debug\net6.0\program004a-obdelnik.runtimeconfig.json
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\bin\Debug\net6.0\program004a-obdelnik.dll
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\bin\Debug\net6.0\program004a-obdelnik.pdb
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\program004a-obdelnik.csproj.AssemblyReference.cache
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\program004a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\program004a-obdelnik.AssemblyInfoInputs.cache
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\program004a-obdelnik.AssemblyInfo.cs
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\program004a-obdelnik.csproj.CoreCompileInputs.cache
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\program004a-obdelnik.dll
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\refint\program004a-obdelnik.dll
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\program004a-obdelnik.pdb
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\program004a-obdelnik.genruntimeconfig.cache
+c:\Users\filip\github-mfj-is-2025-sk3\program004a-obdelnik\obj\Debug\net6.0\ref\program004a-obdelnik.dll
