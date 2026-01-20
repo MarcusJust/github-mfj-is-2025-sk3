@@ -13,7 +13,7 @@ class Program
             Console.WriteLine("Vezmi 1–3 zápalky. Kdo vezme poslední, prohrál.");
             Console.WriteLine();
 
-            int zapalky = 21;
+            int zapalky = 20;
             bool hracNaTahu = true;
 
             while (zapalky > 0)
